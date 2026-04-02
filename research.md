@@ -8,8 +8,8 @@ permalink: /research.html
 <div style="margin-top: 1.5em;"></div>
 
 - **Finite extinction time of a family of homogeneous Ricci flows**  
-  *accepted by Mathematische Zeitschrift* (2026), *Preprint version:*
-  [arXiv](https://arxiv.org/abs/2507.05097)
+  *Mathematische Zeitschrift*, vol. 312, no. 127 (2026). 
+  [DOI](https://doi.org/10.1007/s00209-026-04012-9) | [arXiv](https://arxiv.org/abs/2507.05097)
 
 - **Long-time behavior of awesome homogeneous Ricci flows**  
   *Pacific Journal of Mathematics* 331-2 (2024), 187–215.
