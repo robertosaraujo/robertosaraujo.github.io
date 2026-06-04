@@ -1,13 +1,17 @@
 ---
 layout: default
-title: Talks & Teaching
+title: Events & Teaching
 permalink: /talks.html
 ---
 
-## Talks
+## Talks & visits
+
+#### 2026
+In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
+-**April** - *Differential Geometry Seminar*, National University of Córdoba, Argentina. 
 
 #### 2025  
-In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA as part of the [Summer Postdoc Program](https://impa.br/eventos-do-impa/2025-2/programa-de-pos-doutorado-verao-2025/).
+In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a month as part of the [Summer Postdoc Program](https://impa.br/eventos-do-impa/2025-2/programa-de-pos-doutorado-verao-2025/).
 - [*Symmetry and Shape*](http://xtsunxet.usc.es/symmetry2025/benvida.html), Santiago de Compostela, Spain. November.
 - [*Workshop “Complex Geometry and Lie Groups”*](https://complex-geometry-and-lie-groups.org/), Osaka, Japan. March.  
 - *Differential Geometry Seminar*, Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland. March.  
