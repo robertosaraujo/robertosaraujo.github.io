@@ -21,4 +21,5 @@ permalink: /research.html
 
 ## In preparation
 <div style="margin-top: 1.5em;"></div>
+
 - **The Ricci flow on rank-one solvmanifolds**, with Daniel Rotmeister.
