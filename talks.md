@@ -23,20 +23,20 @@ In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a mo
 - *Oberseminar Geometric Analysis, Differential Geometry and Relativity Theory*, University of Tübingen, Germany \- February.  
 
 #### 2022  
-- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI), Bonn, Germany. June.
+- [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI), Bonn, Germany \- June.
 
 ---
 
 ## Posters
 
 #### 2023  
-- [*Summer School: Geometric Analysis and PDEs*](https://sites.google.com/view/checiny23/home), Chęciny, Poland. July.  
+- [*Summer School: Geometric Analysis and PDEs*](https://sites.google.com/view/checiny23/home), Chęciny, Poland \- July.  
 
 #### 2022  
-- [*ICM Satellite Conference: Differential Geometry and its Applications*](https://prf.uhk.cz/dga2022/index.html), Hradec Králové, Czech Republic. July.  
+- [*ICM Satellite Conference: Differential Geometry and its Applications*](https://prf.uhk.cz/dga2022/index.html), Hradec Králové, Czech Republic \- July.  
 
 #### 2021  
-- [*Workshop on Curvature and Global Shape*](https://www.uni-muenster.de/Diffgeo/cgs2021/index.html), Münster, Germany. August.  
+- [*Workshop on Curvature and Global Shape*](https://www.uni-muenster.de/Diffgeo/cgs2021/index.html), Münster, Germany \- August.  
 
 ---
 
