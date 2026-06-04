@@ -4,7 +4,7 @@ title: Events & Teaching
 permalink: /talks.html
 ---
 
-## Talks & visits
+## Talks & academic visits
 
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
