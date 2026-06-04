@@ -8,7 +8,7 @@ permalink: /talks.html
 
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
-- April \-  *Differential Geometry Seminar*, National University of Córdoba, Argentina. 
+- *Differential Geometry Seminar*, National University of Córdoba, Argentina \- April.  
 
 #### 2025  
 In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a month as part of the [Summer Postdoc Program](https://impa.br/eventos-do-impa/2025-2/programa-de-pos-doutorado-verao-2025/).
@@ -18,9 +18,9 @@ In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a mo
 - *Differential Geometry Seminar*, Instituto de Matemática Pura e Aplicada (IMPA), Rio de Janeiro, Brazil \- January.  
 
 #### 2024  
-- **June,** *Differential Geometry Seminar*, University of São Paulo, Brazil.  
-- **February,** [*Symmetry and Geometry in South Florida*](https://sites.google.com/view/sgsf-2024/home-page?authuser=0), Miami, USA.  
-- **February,** *Oberseminar Geometric Analysis, Differential Geometry and Relativity Theory*, University of Tübingen, Germany.  
+- *Differential Geometry Seminar*, University of São Paulo, Brazil \- June,
+- [*Symmetry and Geometry in South Florida*](https://sites.google.com/view/sgsf-2024/home-page?authuser=0), Miami, USA \- February.  
+- *Oberseminar Geometric Analysis, Differential Geometry and Relativity Theory*, University of Tübingen, Germany \- February.  
 
 #### 2022  
 - [*Young Women in Geometric Analysis*](https://ywigeometricanalysis.wordpress.com/?fbclid=IwAR1k8ppntCUQX3k6kHusMKDk7qA9v-3_c6y3IHAhEJljOWra7UPzYmEDVjI), Bonn, Germany. June.
