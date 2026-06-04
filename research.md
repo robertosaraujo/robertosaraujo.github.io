@@ -4,7 +4,7 @@ title: Research
 permalink: /research.html
 ---
 
-## Publications
+## Publications and Preprints
 <div style="margin-top: 1.5em;"></div>
 
 - **Finite extinction time of a family of homogeneous Ricci flows**  
@@ -18,3 +18,7 @@ permalink: /research.html
 - **On the isometry group of immortal homogeneous Ricci flows**  
   *The Journal of Geometric Analysis*, vol. 34, no. 173 (2024).
   [DOI](https://doi.org/10.1007/s12220-024-01609-6) | [arXiv](https://arxiv.org/abs/2310.18182)
+
+## In preparation
+<div style="margin-top: 1.5em;"></div>
+- **The Ricci flow on rank-one solvmanifolds**, with Daniel Rotmeister.
