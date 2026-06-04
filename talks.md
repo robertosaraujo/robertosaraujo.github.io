@@ -8,7 +8,7 @@ permalink: /talks.html
 
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
-- **April** \-  *Differential Geometry Seminar*, National University of Córdoba, Argentina. 
+- April \-  *Differential Geometry Seminar*, National University of Córdoba, Argentina. 
 
 #### 2025  
 In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a month as part of the [Summer Postdoc Program](https://impa.br/eventos-do-impa/2025-2/programa-de-pos-doutorado-verao-2025/).
