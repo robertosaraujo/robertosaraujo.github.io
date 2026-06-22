@@ -4,7 +4,7 @@ title: Research
 permalink: /research.html
 ---
 
-## Publications and Preprints
+## Publications and preprints
 <div style="margin-top: 1.5em;"></div>
 
 - **Finite extinction time of a family of homogeneous Ricci flows**  
