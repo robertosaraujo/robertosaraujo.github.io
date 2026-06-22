@@ -6,6 +6,9 @@ permalink: /talks.html
 
 ## Talks & academic visits
 
+#### Upcoming events
+- [*Conference Recent Trends in Differential Geometry*](https://sites.google.com/impan.pl/rtdg2026/home-page?authuser=0), Będlewo, Poland \- July 2026.
+
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
 - *Differential Geometry Seminar*, National University of Córdoba, Argentina \- April.  
