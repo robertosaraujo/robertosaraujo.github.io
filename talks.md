@@ -11,6 +11,7 @@ permalink: /talks.html
 
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
+- *Differential Geometry Seminar*, Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland \- June.  
 - *Differential Geometry Seminar*, National University of Córdoba, Argentina \- April.  
 
 #### 2025  
