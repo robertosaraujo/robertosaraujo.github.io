@@ -23,3 +23,5 @@ permalink: /research.html
 <div style="margin-top: 1.5em;"></div>
 
 - **The Ricci flow on rank-one solvmanifolds**, with Daniel Rotmeister.
+
+- **Quasi-Einstein metrics on solvmanifolds**, with Nazia Valiyakath.
