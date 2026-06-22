@@ -4,7 +4,7 @@ title: Events & Teaching
 permalink: /talks.html
 ---
 
-## Talks & academic visits
+## Talks and academic visits
 
 #### Upcoming events
 - [*Conference Recent Trends in Differential Geometry*](https://sites.google.com/impan.pl/rtdg2026/home-page?authuser=0), Będlewo, Poland \- July 2026.
@@ -44,7 +44,7 @@ In January 2025, I visited [Luis Florit](https://luis.impa.br/) at IMPA for a mo
 
 ---
 
-## Teaching & organizing
+## Teaching and organizing
 
 - I organized the *PhD Students' Differential Geometry Seminar* at the University of Münster from Spring 2022 to Spring 2023.
 - *Lie Groups*. Teaching Assistant. University of Münster. Spring 2022. 
