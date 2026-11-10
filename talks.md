@@ -6,11 +6,13 @@ permalink: /talks.html
 
 ## Talks and academic visits
 
-#### Upcoming events
-- [*Young Geometers Meeting*](https://www.uni-muenster.de/MathematicsMuenster/events/2026/young-geometers.shtml), Münster, Germany \- September 2026.
+<!--#### Upcoming events
+- [*Young Geometers Meeting*](https://www.uni-muenster.de/MathematicsMuenster/events/2026/young-geometers.shtml), Münster, Germany \- September 2026.-->
 
 #### 2026
 In April 2026, I visited [Jorge Lauret](https://sites.google.com/view/jorge-lauret/) at the National University of Córdoba, Argentina.
+- *Geometry and Analysis Seminar*, University of Leeds, United Kingdom \- September 2026.  
+- [*Young Geometers Meeting*](https://www.uni-muenster.de/MathematicsMuenster/events/2026/young-geometers.shtml), Münster, Germany \- September 2026.
 - [*Conference Recent Trends in Differential Geometry*](https://sites.google.com/impan.pl/rtdg2026/home-page?authuser=0), Będlewo, Poland \- July 2026.
 - *Differential Geometry Seminar*, Institute of Mathematics of the Polish Academy of Sciences (IM PAN), Warsaw, Poland \- June.  
 - *Differential Geometry Seminar*, National University of Córdoba, Argentina \- April.  
