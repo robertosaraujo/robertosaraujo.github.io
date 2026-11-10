@@ -75,8 +75,9 @@ a.social:hover {
   margin-bottom: 2rem;
 }
 
-.sapienza-logo {
-  width: 180px;
+.site-header img.sapienza-logo {
+  width: 150px;
+  max-width: 100%;
   height: auto;
   display: block;
 }
