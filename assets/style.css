@@ -12,7 +12,7 @@ body {
   line-height: 1.6;
 }
 
-header {
+header.main-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -26,6 +26,12 @@ header .sapienza-logo {
   max-width: 100%;
   height: auto;
   display: block;
+}
+
+header.main-header nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 header div {
