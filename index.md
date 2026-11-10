@@ -3,11 +3,12 @@ layout: default
 title: Home
 ---
 <div style="margin-top: 2em;"></div>
+
 <div class="site-header">
   <a href="https://www.mat.uniroma1.it/">
     <img src="/assets/img/logo%20Sapienza%20(rgb).png"
          alt="Sapienza University of Rome"
-         class="sapienza-logo">
+         style="width: 150px !important; max-width: 100%; height: auto; display: block;">
   </a>
 </div>
 
