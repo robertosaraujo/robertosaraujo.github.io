@@ -13,11 +13,20 @@ body {
 }
 
 header {
-      display: flex;
-      justify-content: flex-end; /* Align nav to right */
-      background-color: #f8f9fa;
-      padding: 1rem 2rem;
-} 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+header .sapienza-logo {
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 
 header div {
   font-size: 1.1em;
