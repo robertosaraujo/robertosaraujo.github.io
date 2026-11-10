@@ -2,20 +2,13 @@
 layout: default
 title: Home
 ---
-<header class="main-header">
-  <a href="https://www.mat.uniroma1.it/" class="logo-link">
+<div class="site-header">
+  <a href="https://www.mat.uniroma1.it/">
     <img src="/assets/img/logo%20Sapienza%20(rgb).png"
          alt="Sapienza University of Rome"
          class="sapienza-logo">
   </a>
-
-  <nav>
-    <a href="/">Home</a>
-    <a href="/research/">Research</a>
-    <a href="/events/">Events &amp; Teaching</a>
-    <a href="/cv/">CV</a>
-  </nav>
-</header>
+</div>
 
 ## About me
 
