@@ -70,3 +70,13 @@ a.social {
 a.social:hover {
   color: #0077cc;
 }
+.site-header {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+.sapienza-logo {
+  width: 180px;
+  height: auto;
+  display: block;
+}
