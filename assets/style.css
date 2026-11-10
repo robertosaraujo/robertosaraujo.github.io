@@ -17,8 +17,8 @@ header.main-header {
   justify-content: space-between;
   align-items: center;
   background-color: #f8f9fa;
-  padding: 0;
-  margin-bottom: 2rem;
+  padding: 10px 24px;
+  margin: -20px calc((900px - 100vw) / 2) 2rem;
 }
 
 header .sapienza-logo {
