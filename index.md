@@ -19,7 +19,7 @@ I am a postdoc in the Department of Mathematics at  <a href="https://www.mat.uni
 
 <div style="text-align: center; margin-top: -1em;">
   <img src="/assets/img/Araujo_Roma.jpg" alt="Photo of Roberto Araujo"
-       style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; object-position: 70% 80%; display: block; margin: 0 auto 0.5rem auto;">
+       style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; object-position: 80% 80%; display: block; margin: 0 auto 0.5rem auto;">
   <div style="margin-left: 5px;">
     <div style="font-weight: bold; font-size: 1.5em; color: #222;">Roberto Araujo</div>
     <div style="font-size: 1em; color: #666;">Mathematician</div>
